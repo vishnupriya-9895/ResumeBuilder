@@ -34,7 +34,7 @@ function Resumegenerator() {
   to="/Form"
   variant="contained"
   color="primary"
->Text</Button>
+>Next</Button>
     </div>
   )
 }
